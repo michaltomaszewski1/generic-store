@@ -1,0 +1,20 @@
+.product-preview {
+    display: flex;
+    flex-direction: row;
+    img {
+        width: 3em;
+        height: 3em;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .product-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex: auto;
+        > div {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}

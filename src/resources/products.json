@@ -1,0 +1,122 @@
+[
+  {
+    "key": 1,
+    "name": "Smartphone X",
+    "price": 599.99,
+    "short_description": "High-performance smartphone",
+    "long_description": "Experience the latest in mobile technology with Smartphone X. Featuring a powerful processor, stunning display, and advanced camera capabilities.",
+    "image_source": "smartphoneX.jpg"
+  },
+  {
+    "key": 2,
+    "name": "Laptop Pro",
+    "price": 1299.99,
+    "short_description": "Slim and powerful laptop",
+    "long_description": "Laptop Pro is designed for professionals on the go. With its sleek design, high-resolution display, and fast processor, it's the perfect companion for your work or entertainment.",
+    "image_source": "laptopPro.png"
+  },
+  {
+    "key": 3,
+    "name": "Fitness Tracker 2000",
+    "price": 79.99,
+    "short_description": "Track your fitness journey",
+    "long_description": "Stay on top of your fitness goals with the Fitness Tracker 2000. Monitor your steps, heart rate, and sleep patterns with this sleek and comfortable wearable device.",
+    "image_source": "fitnessTracker.jpg"
+  },
+  {
+    "key": 4,
+    "name": "Wireless Earbuds",
+    "price": 59.99,
+    "short_description": "Immersive audio experience",
+    "long_description": "Enjoy a wire-free listening experience with our Wireless Earbuds. With high-quality sound and a comfortable fit, these earbuds are perfect for music lovers on the move.",
+    "image_source": "wirelessEarbuds.jpg"
+  },
+  {
+    "key": 5,
+    "name": "Coffee Maker Deluxe",
+    "price": 129.99,
+    "short_description": "Brew the perfect cup",
+    "long_description": "Start your day right with the Coffee Maker Deluxe. This premium coffee maker ensures a delicious and aromatic cup of coffee every time, with customizable brewing options.",
+    "image_source": "coffeeMaker.jpg"
+  },
+  {
+    "key": 6,
+    "name": "Gaming Console Ultra",
+    "price": 499.99,
+    "short_description": "Elevate your gaming experience",
+    "long_description": "Immerse yourself in the world of gaming with the Gaming Console Ultra. Featuring powerful graphics and a vast game library, it's the ultimate console for gamers.",
+    "image_source": "gamingConsole.jpg"
+  },
+  {
+    "key": 7,
+    "name": "Smartwatch Infinity",
+    "price": 149.99,
+    "short_description": "Stay connected on your wrist",
+    "long_description": "The Smartwatch Infinity is more than just a timepiece. Receive notifications, track your fitness, and stay connected on the go with this stylish and functional smartwatch.",
+    "image_source": "smartwatch.jpg"
+  },
+  {
+    "key": 8,
+    "name": "HD Smart TV",
+    "price": 799.99,
+    "short_description": "Immersive home entertainment",
+    "long_description": "Transform your living room with the HD Smart TV. Enjoy stunning visuals, smart features, and a world of entertainment options right at your fingertips.",
+    "image_source": "smartTV.jpg"
+  },
+  {
+    "key": 9,
+    "name": "Digital Camera Pro",
+    "price": 699.99,
+    "short_description": "Capture the moment in high definition",
+    "long_description": "Unleash your photography skills with the Digital Camera Pro. With advanced features and high-resolution capabilities, it's the perfect tool for capturing life's special moments.",
+    "image_source": "digitalCamera.png"
+  },
+  {
+    "key": 10,
+    "name": "Wireless Charging Pad",
+    "price": 29.99,
+    "short_description": "Convenient charging solution",
+    "long_description": "Say goodbye to tangled cables with the Wireless Charging Pad. Simply place your device on the pad to charge it effortlessly, providing a clutter-free charging experience.",
+    "image_source": "wirelessChargingPad.jpg"
+  },
+  {
+    "key": 11,
+    "name": "Home Security System",
+    "price": 199.99,
+    "short_description": "Protect your home with advanced security",
+    "long_description": "Keep your home safe and secure with the Home Security System. Monitor your property, receive alerts, and have peace of mind with this advanced security solution.",
+    "image_source": "homeSecuritySystem.jpg"
+  },
+  {
+    "key": 12,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "short_description": "Portable audio excellence",
+    "long_description": "Take your music anywhere with the Bluetooth Speaker. With powerful sound and a compact design, this portable speaker is perfect for outdoor adventures and indoor gatherings.",
+    "image_source": "bluetoothSpeaker.jpg"
+  },
+  {
+    "key": 13,
+    "name": "Electric Toothbrush",
+    "price": 39.99,
+    "short_description": "Achieve optimal oral health",
+    "long_description": "Upgrade your oral care routine with the Electric Toothbrush. Featuring advanced cleaning technology, it ensures a thorough and effective clean for a brighter smile.",
+    "image_source": "electricToothbrush.jpg"
+  },
+  {
+    "key": 14,
+    "name": "Smart Home Thermostat",
+    "price": 129.99,
+    "short_description": "Efficient temperature control",
+    "long_description": "Optimize your home's energy efficiency with the Smart Home Thermostat. Easily control and monitor your home's temperature from anywhere, saving you money and reducing energy waste.",
+    "image_source": "smartHomeThermostat.jpg"
+  },
+  {
+    "key": 15,
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "short_description": "Precision and convenience",
+    "long_description": "Enhance your computing experience with the Wireless Mouse. Enjoy precise control and the freedom of wireless connectivity, making it an essential accessory for your desktop or laptop.",
+    "image_source": "wirelessMouse.jpg"
+  }
+]

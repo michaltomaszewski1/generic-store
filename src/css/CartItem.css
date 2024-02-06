@@ -1,0 +1,29 @@
+.cart-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .cart-item-control {
+        display: flex;
+        flex-direction: column;
+        /*max-width: 10%;*/
+        div {
+            display: flex;
+            flex-direction: row;
+        }
+        button {
+            color: white;
+            background-color: red;
+        }
+        input {
+            margin-top: auto;
+            margin-bottom: auto;
+            margin-left: 1em;
+            width: 4em;
+
+        }
+        * {
+            width: fit-content;
+            align-self: self-end;
+        }
+    }
+}

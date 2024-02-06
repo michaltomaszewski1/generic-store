@@ -1,0 +1,15 @@
+.product-page {
+     img {
+         height: 15em;
+         width: 15em;
+     }
+    input {
+        width: 4em;
+        margin-right: 1em;
+    }
+    button {
+        background-color: greenyellow;
+        border-radius: 5px;
+        border-width: 1px;
+    }
+}

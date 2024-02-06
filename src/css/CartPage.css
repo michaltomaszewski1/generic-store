@@ -1,0 +1,10 @@
+.cart-summary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    button {
+        font-size: 2em;
+        background-color: green;
+    }
+}
